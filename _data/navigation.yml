@@ -9,25 +9,19 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Activities"
+    url: /activities/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Grants"
+    url: /grants/
     
+  - title: "Awards"
+    url: /awards/
+
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "CV"
+    url: /cv.json/
