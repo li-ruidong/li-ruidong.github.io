@@ -8,20 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/    
     
   - title: "Activities"
     url: /activities/
         
-  - title: "Grants"
-    url: /grants/
+  # - title: "Grants"
+  #   url: /grants/
     
-  - title: "Awards"
-    url: /awards/
-
-  - title: "CV"
-    url: /cv/
+  # - title: "Awards"
+  #   url: /awards/
     
-  - title: "CV"
-    url: /cv.json/
+  # - title: "CV"
+  #   url: /cv.json/
