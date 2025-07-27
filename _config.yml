@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ruidong LI (李睿东)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Ruidong LI (李睿东)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD candidate, CEE, PolyU"
+  location         : "Hong Kong SAR"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "rui-dong.li@connect.polyu.hk" 
 
