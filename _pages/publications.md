@@ -13,6 +13,17 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
 
 Journal Papers (in English)
 ======
+3\. **Li R.D.**, Zhang P.*, Yin Z.Y., Brain S. (2024)...  
+    **https://doi.org/10.1002/nag.3832**
+
+2\. **Li R.D.**, Hu X.Y., Chen F. ...  
+    **https://doi.org/10.1016/j.trgeo.2021.100693**
+
+1\. Yang N.Y., Chen X.B.\*, **Li R.D.** ...  
+    **https://doi.org/10.1016/j.compgeo.2021.104259**
+
+
+
 
 3. **Li R.D.**, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*.
 
