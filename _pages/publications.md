@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Please find my updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or Scopus.
+
+Journal Papers (in English)
 ======
 * Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), Hong Kong SAR, 2026 (expected)
   * Supervisor: **[Prof. Zhen-Yu YIN](http://geoinvention.com/rteam_yinzhenyu.html)**
