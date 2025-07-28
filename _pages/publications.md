@@ -13,13 +13,23 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
 
 Journal Papers (in English)
 ======
+
+&emsp;9\. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*.<br>
+&emsp;[https://doi.org/10.1016/j.powtec.2025.121452](https://doi.org/10.1016/j.powtec.2025.121452)
+
+&emsp;8\. Jiang H.R., Debanath OC.\*, Li Y., **Li R.D.** (2025). A level-set method-based framework for modeling abrasion of railway ballast. *Transportation Geotechnics*.<br>
+&emsp;[https://doi.org/10.1016/j.trgeo.2025.101628](https://doi.org/10.1016/j.trgeo.2025.101628)
+
+&emsp;7\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.** (2025). Novel observations for the impact of particle morphology on shear modulus of granular materials. *Acta Geotechnica*. <br>
+&emsp;[https://doi.org/10.1007/s11440-025-02640-9](https://doi.org/10.1007/s11440-025-02640-9)
+
 &emsp;6\. **Li R.D.**, Yin Z.Y.\*, He S.H., Brain S. (2025). Enhancement and assessment of large vision models for 3D particle reconstruction from X-ray tomography. *Canadian Geotechnical Journal*.<br>
 &emsp;[https://doi.org/10.1139/cgj-2024-0736](https://doi.org/10.1139/cgj-2024-0736)
 
-&emsp;5\. **Li R.D.**, Yin Z.Y.\*, He S.H. 3D reconstruction of arbitrary granular media utilizing vision foundation model. (2025). *Applied Soft Computing*.<br>
+&emsp;5\. **Li R.D.**, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*.<br>
 &emsp;[https://doi.org/10.1016/j.asoc.2024.112599](https://doi.org/10.1016/j.asoc.2024.112599)
 
-&emsp;4\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.**. (2024). Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*.<br>
+&emsp;4\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.** (2024). Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*.<br>
 &emsp;[https://doi.org/10.1139/cgj-2023-0717](https://doi.org/10.1139/cgj-2023-0717)
 
 &emsp;3\. **Li R.D.**, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*.<br>
