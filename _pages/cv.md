@@ -23,7 +23,7 @@ Experience
 * Research Assistant in Department of Land Surveying and Geo-Informatics, PolyU, 12/2021-06/2022
   * Supervisor: Prof. Tony Cheng-xiang ZHUGE
   
-Skills
+Awards
 ======
 * Skill 1
 * Skill 2
