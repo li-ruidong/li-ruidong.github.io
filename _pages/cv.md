@@ -19,7 +19,7 @@ Education
 Experience
 ======
 * Visiting Scholar in Department of Engineering, University of Cambridge, 04/2023-10/2023
-  * Supervisor: Prof. Brian SHEIL
+  * Supervisor: Prof. Brian SHEIL & Prof. Pin ZHANG
 * Research Assistant in Department of Land Surveying and Geo-Informatics, PolyU, 12/2021-06/2022
   * Supervisor: Prof. Tony Cheng-xiang ZHUGE
   
