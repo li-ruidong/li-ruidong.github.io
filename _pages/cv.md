@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, Central South University, 2017-2021
+* Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), 2026 (expected)
+  * Supervisor: Prof. Zhen-Yu YIN
+* B.S. in Civil Engineering, Central South University (CSU), 09/2017-06/2021
+  * Supervisor: Prof. Xiaobin CHEN & Prof. Hao WU
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Spring 2024: Research Assistant
+  * 
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
