@@ -16,7 +16,7 @@ Journal Papers (in English)
 
 
 * 2022
-2. **Li R.L.**, Hu X.Y., Chen F., Wang X., Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*, 34: 100693.
+2. **Li R.D.**, Hu X.Y., Chen F., Wang X.*, Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*, 34: 100693.
   **[https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)**
 
 * 2021
