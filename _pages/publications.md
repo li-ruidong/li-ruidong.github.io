@@ -53,6 +53,22 @@ Mesoscale numerical investigation of the effects of fiber stiffness on the shear
 &emsp;<a href="https://doi.org/10.1016/j.compgeo.2021.104259">https://doi.org/10.1016/j.compgeo.2021.104259</a></p>
 
 
+<ol start="2" reversed style="padding-left: 1.5em;">
+  <li style="text-indent: -1.5em; margin-bottom: 0.5em;">
+    <strong>Li R.D.</strong>, Hu X.Y., Chen F., Wang X.*, Xiong H., Wu H. (2022).  
+    A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis.  
+    <em>Transportation Geotechnics</em>.<br>
+    &emsp;<a href="https://doi.org/10.1016/j.trgeo.2021.100693">https://doi.org/10.1016/j.trgeo.2021.100693</a>
+  </li>
+  <li style="text-indent: -1.5em; margin-bottom: 0.5em;">
+    Yang N.Y., Chen X.B.*, <strong>Li R.D.</strong>, Zhang J.Q, Hu H., Zhang J.S. (2021).  
+    Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil.  
+    <em>Computers and Geotechnics</em>.<br>
+    &emsp;<a href="https://doi.org/10.1016/j.compgeo.2021.104259">https://doi.org/10.1016/j.compgeo.2021.104259</a>
+  </li>
+</ol>
+
+
 Experience
 ======
 * Visiting Scholar in  Downing College, University of Cambridge, Cambridge, United Kingdom, 06/2023-10/2023
