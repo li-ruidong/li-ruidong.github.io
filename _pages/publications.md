@@ -15,7 +15,7 @@ Journal Papers (in English)
 ======
 
 [3] **Li R.D.**, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*.
-   **[https://doi.org/10.1002/nag.3832](https://doi.org/10.1002/nag.3832)**
+  **[https://doi.org/10.1002/nag.3832](https://doi.org/10.1002/nag.3832)**
    
 [2] **Li R.D.**, Hu X.Y., Chen F., Wang X.\*, Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*.
   **[https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)**
