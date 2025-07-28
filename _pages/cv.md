@@ -14,24 +14,14 @@ Education
 * Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), 2026 (expected)
   * Supervisor: Prof. Zhen-Yu YIN
 * B.S. in Civil Engineering, Central South University (CSU), 09/2017-06/2021
-  * Supervisor: Prof. Xiaobin Chen & Prof. Hao Wu
+  * Supervisor: Prof. Xiaobin CHEN & Prof. Hao WU
 
 Experience
 ======
-* Spring 2024: Research Assistant
-  * 
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Scholar in Department of Engineering, University of Cambridge, 04/2023-10/2023
+  * Supervisor: Prof. Brian SHEIL
+* Research Assistant in Department of Land Surveying and Geo-Informatics, PolyU, 12/2021-06/2022
+  * Supervisor: Prof. Tony Cheng-xiang ZHUGE
   
 Skills
 ======
