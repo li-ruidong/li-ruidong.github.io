@@ -23,10 +23,11 @@ Journal Papers (in English)
 1. Yang N.Y., Chen X.B.*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*, 137, 104259.
    **[https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)**
  
- Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), Hong Kong SAR, 2026 (expected)
-  * Supervisor: **[Prof. Zhen-Yu YIN](http://geoinvention.com/rteam_yinzhenyu.html)**
-* B.S. in Civil Engineering, Central South University (CSU), Changsha, China, 09/2017-06/2021
-  * Supervisor: **[Prof. Xiaobin CHEN](https://faculty.csu.edu.cn/chenxiaobin/en/index.htm)** & **[Prof. Hao WU](https://faculty.csu.edu.cn/wuhao/zh_CN/index.htm)**
+1. Yang N.Y., Chen X.B.*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*, 137, 104259.
+   **[https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)**
+
+
+
 
 Experience
 ======
