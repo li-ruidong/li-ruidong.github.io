@@ -13,34 +13,23 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
 
 Journal Papers (in English)
 ======
+&emsp;6\. **Li R.D.**, Yin Z.Y.\*, He S.H., Brain S. (2025). Enhancement and assessment of large vision models for 3D particle reconstruction from X-ray tomography. *Canadian Geotechnical Journal*.<br>
+&emsp;[https://doi.org/10.1139/cgj-2024-0736](https://doi.org/10.1139/cgj-2024-0736)
 
-&emsp;4\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.**. Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*.<br>
-    [https://doi.org/10.1139/cgj-2023-0717](https://doi.org/10.1139/cgj-2023-0717)
+&emsp;5\. **Li R.D.**, Yin Z.Y.\*, He S.H. 3D reconstruction of arbitrary granular media utilizing vision foundation model. (2025). *Applied Soft Computing*.<br>
+&emsp;[https://doi.org/10.1016/j.asoc.2024.112599](https://doi.org/10.1016/j.asoc.2024.112599)
+
+&emsp;4\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.**. (2024). Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*.<br>
+&emsp;[https://doi.org/10.1139/cgj-2023-0717](https://doi.org/10.1139/cgj-2023-0717)
 
 &emsp;3\. **Li R.D.**, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*.<br>
-    [https://doi.org/10.1002/nag.3832](https://doi.org/10.1002/nag.3832)
+&emsp;[https://doi.org/10.1002/nag.3832](https://doi.org/10.1002/nag.3832)
 
 &emsp;2\. **Li R.D.**, Hu X.Y., Chen F., Wang X.\*, Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*.<br>
-    [https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)
+&emsp;[https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)
 
-&emsp;1\. Yang N.Y., Chen X.B.\*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*.<br> 
-    [https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)
-
-
-
-&emsp;4\. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.**. Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*.
-[https://doi.org/10.1139/cgj-2023-0717](https://doi.org/10.1139/cgj-2023-0717)
-
-&emsp;3\. **Li R.D.**, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*.
-[https://doi.org/10.1002/nag.3832](https://doi.org/10.1002/nag.3832)
-
-&emsp;2\. **Li R.D.**, Hu X.Y., Chen F., Wang X.\*, Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*.
-[https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)
-
-&emsp;1\. Yang N.Y., Chen X.B.\*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*.
-[https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)
-
-
+&emsp;1\. Yang N.Y., Chen X.B.\*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*.<br>
+&emsp;[https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)
 
 Experience
 ======
