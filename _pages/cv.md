@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 Education
 ======
 * Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), 2026 (expected)
