@@ -14,7 +14,7 @@ Education
 * Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), 2026 (expected)
   * Supervisor: Prof. Zhen-Yu YIN
 * B.S. in Civil Engineering, Central South University (CSU), 09/2017-06/2021
-  * Supervisor: Prof. Xiaobin CHEN & Prof. Hao WU
+  * Supervisor: Prof. Xiaobin Chen & Prof. Hao Wu
 
 Experience
 ======
