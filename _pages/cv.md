@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), 2026 (expected)
-  * Supervisor: Prof. Zhen-Yu YIN
+  * Supervisor: **[Prof. Zhen-Yu YIN](http://geoinvention.com/rteam_yinzhenyu.html)**
 * B.S. in Civil Engineering, Central South University (CSU), 09/2017-06/2021
   * Supervisor: Prof. Xiaobin CHEN & Prof. Hao WU
 
