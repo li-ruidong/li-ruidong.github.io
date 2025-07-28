@@ -33,8 +33,8 @@ Awards and Honors
 * China Railway First Class Scholarship, CSU & China Railway Group Limited, 12/2020
 * First Prize of the 11th National BIM-CIM Competition, China Construction Education Association, 06/2020
 * National Scholarship, Ministry of Education of the People’s Republic of China, 12/2019
-* First Class Scholarship, CSU, 12/2018, 12/2019, 12/2020
-* Second Class Scholarship, CSU, 12/2017
+* First Class Scholarship, CSU, 2018 ~ 2021
+* Second Class Scholarship, CSU, 2017
 
 Academic service
 ======
