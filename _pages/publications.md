@@ -15,9 +15,12 @@ Journal Papers (in English)
 ======
 
 
+* 2022
+2. **Li R.L.**, Hu X.Y., Chen F., Wang X., Xiong H., Wu H. (2022). A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*, 34: 100693.
+  **[https://doi.org/10.1016/j.trgeo.2021.100693](https://doi.org/10.1016/j.trgeo.2021.100693)**
 
 * 2021
-1. Yang N, Chen X*, **Li R**, Zhang J, Hu H, Zhang J. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*, 137, 104259.
+1. Yang N.Y., Chen X.B.*, **Li R.D.**, Zhang J.Q, Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*, 137, 104259.
    **[https://doi.org/10.1016/j.compgeo.2021.104259](https://doi.org/10.1016/j.compgeo.2021.104259)**
  
  Ph.D in Geotechnical Engineering, The Hong Kong Polytechnic University (PolyU), Hong Kong SAR, 2026 (expected)
