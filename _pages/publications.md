@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or Scopus.
+Please find my updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or **[Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57223237262&zone=)**.
 
 Journal Papers (in English)
 ======
