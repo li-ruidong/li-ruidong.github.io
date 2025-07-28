@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * Visiting Scholar in Department of Engineering, University of Cambridge, 04/2023-10/2023
-  * Co-Supervisors: **[Prof. Brian SHEIL](https://dcu-group.co.uk/team/brian/)** & **[Prof. Pin ZHANG](https://pinzhang3.github.io/people/)**
+  * Co-supervisors: **[Prof. Brian SHEIL](https://dcu-group.co.uk/team/brian/)** & **[Prof. Pin ZHANG](https://pinzhang3.github.io/people/)**
 * Research Assistant in Department of Land Surveying and Geo-Informatics, PolyU, 12/2021-06/2022
   * Supervisor: Prof. Tony Cheng-xiang ZHUGE
   
