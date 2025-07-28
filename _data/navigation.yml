@@ -9,15 +9,15 @@
 
 main:
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/    
     
   - title: "Activities"
     url: /activities/
-
-  - title: "CV"
-    url: /cv/
-        
+   
   # - title: "Grants"
   #   url: /grants/
     
