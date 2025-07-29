@@ -3,6 +3,59 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
+
+Please find my updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or **[Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57223237262&zone=)**.
+
+
+## Journal paper
+
+<small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
+ *Int. J. Numer. Methods Eng.* ***2***,
+ *J. Geotech. Geoenviron. Eng.* ***1***,
+ *Int. J. Numer. Anal. Methods Geomech.* ***6***,
+ *Eng. Geol.* ***1***,
+ *Comput. Geotech.* ***6***, 
+ *Int. J. Rock Mech. Min. Sci.* ***1***,
+ *Rock Mech. Rock Eng.* ***1***)</small>
+
+1.  **Liang W.J.**, Fang H.C., Yin Z.Y.\* & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
+*Computer Methods in Applied Mechanics and Engineering*,
+431, 117294.
+<br /><https://doi.org/10.1016/j.cma.2024.117294>
+   
+2.  Yu J.D., Zhao J.D.\*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
+*International Journal for Numerical and Analytical Methods in Geomechanics*,
+48(13), 3308–3349.
+<br /><https://doi.org/10.1002/nag.3794>
+   
+3.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. 
+*Computers and Geotechnics*,
+171, 106349.
+<br /><https://doi.org/10.1016/j.compgeo.2024.106349>
+ 
+
+17. **Liang W.J.** & Zhao J.D.\* (2019). Multiscale modelling of large deformation in geomechanics. 
+*International Journal for Numerical and Analytical Methods in Geomechanics*,
+43, 1080–1114. (**IJNAMG Top downloaded paper**)
+<br /><https://doi.org/10.1002/nag.2921>
+{: reversed="reversed"}
+
+## Conference Paper
+1. Yu J.D., Zhao J.D.*,  Zhao S.W. & **Liang W.J.** (2024) Multiphysics simulation of freezing and thawing granular media using material point method. GeoShanghai International Conference (GeoShanghai 2024), 26 - 29 May 2024, Shanghai, China. <br /><https://doi.org/10.1088/1755-1315/1330/1/012035>
+   
+2. **Liang W.**, Yin Z., Zhao J., & Soga K. (2023) Multiscale modeling of wave propagation in saturated granular material. 17th International Conference on Computational Plasticity (COMPLAS 2023), 5-  7 Sept 2023, Barcelona, Spain.
+
+
+
+
+
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 redirect_from:
   - /resume
 ---
