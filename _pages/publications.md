@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find updated works in [Google Scholar](https://scholar.google.com/citations?user=FdLhgqkAAAAJ&hl=en) or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57205550272).
+Please find updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57223237262).
 
-## Journal paper
+## Journal papers (in English)
 
 <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
@@ -18,8 +18,9 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
-*International Journal of Rock Mechanics and Mining Sciences*.  Accepted
+1. Zeng K.F., Yin Z.Y.\*, **Li R.D.\***, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*
+<br /><https://doi.org/10.1016/j.powtec.2025.121452>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
