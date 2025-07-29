@@ -9,14 +9,6 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 
 Journal Papers (in English)
 ======
-#### <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
-####  *Int. J. Numer. Methods Eng.* ***2***,
-####  *J. Geotech. Geoenviron. Eng.* ***1***,
-####  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
-####  *Eng. Geol.* ***1***,
-####  *Comput. Geotech.* ***6***, 
-####  *Int. J. Rock Mech. Min. Sci.* ***1***,
-####  *Rock Mech. Rock Eng.* ***1***)</small>
 
 1. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*, 121452.
 <br /><https://10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
