@@ -48,3 +48,13 @@ Journal papers (in Chinese)
 <br /><https://doi.org/10.19713/j.cnki.43-1423/u.T20200268>
 {: reversed="reversed"}
 
+Venues
+======
+<a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=14642&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=14642" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=23640&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23640" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=130124&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=130124" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100829268&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100829268" alt="SCImago Journal &amp; Country Rank"  /></a>
