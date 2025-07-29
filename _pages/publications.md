@@ -18,9 +18,11 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Zeng K.F., Yin Z.Y.\*, **Li R.D.\***, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*
-<br /><https://doi.org/10.1016/j.powtec.2025.121452>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+1. Zeng K.F., Yin Z.Y.\*, **Li R.D.\***, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*, 121452.
+<br /><https://doi.org/10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+2. Jiang, H.R., Debanath, O.C.\*, Li, Y., **Li R.D.\***. (2025). A level-set method-based framework for modeling abrasion of railway ballast. *Transportation Geotechnics*, 101628.
+<br /><https://doi.org/10.1016/j.trgeo.2025.101628> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2025.101628" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
