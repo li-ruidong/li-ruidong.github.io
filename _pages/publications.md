@@ -46,7 +46,6 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 
 9. Yang N.Y., Chen X.B.\*, **Li R.D.\***, Zhang J.Q., Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *InternComputers and Geotechnics*, 137, 104259.
 <br /><https://doi.org/10.1016/j.compgeo.2021.104259> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.compgeo.2021.104259" data-style="large_rectangle"></span>
-
 {: reversed="reversed"}
 
 ## Book Chapter
