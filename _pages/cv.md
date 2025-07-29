@@ -39,6 +39,6 @@ Awards and Honors
 Academic service
 ======
 * Journal Reviewer:
-  * Civil engineering domain: Computers and Geotechnics (Elsevier), Granular Matter (Springer)
+  * Civil engineering domain: [Computers and Geotechnics]<https://www.sciencedirect.com/journal/computers-and-geotechnics>, [Granular Matter]<https://link.springer.com/journal/10035>
 
   
