@@ -42,4 +42,9 @@ Journal papers (in English)
 <br /><https://doi.org/10.1016/j.compgeo.2021.104259> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.compgeo.2021.104259" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 {: reversed="reversed"}
 
+Journal papers (in Chinese)
+======
+1. 张如九, 严磊\*, 何旭辉, **李睿东**, 孙颖. (2020). 基于混合方法的风速预测模型研究. *铁道科学与工程学报*, 17(7), 1630-1636.
+<br /><https://doi.org/10.19713/j.cnki.43-1423/u.T20200268>
+{: reversed="reversed"}
 
