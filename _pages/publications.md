@@ -10,18 +10,18 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
 
 ## Journal papers (in English)
 
-<p><small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
+<small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1***,
  *Comput. Geotech.* ***6***, 
  *Int. J. Rock Mech. Min. Sci.* ***1***,
- *Rock Mech. Rock Eng.* ***1***)</small><p>
+ *Rock Mech. Rock Eng.* ***1***)</small>
 
 9. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals.
 *Powder Technology*.
-&emsp;[https://doi.org/10.1016/j.powtec.2025.121452](https://doi.org/10.1016/j.powtec.2025.121452)
+#&emsp;[https://doi.org/10.1016/j.powtec.2025.121452](https://doi.org/10.1016/j.powtec.2025.121452)
 <br /><https://doi.org/10.1016/j.cma.2024.117294>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106859" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
