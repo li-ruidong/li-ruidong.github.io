@@ -10,14 +10,14 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
 
 ## Journal paper
 
-<small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
+<p><small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1***,
  *Comput. Geotech.* ***6***, 
  *Int. J. Rock Mech. Min. Sci.* ***1***,
- *Rock Mech. Rock Eng.* ***1***)</small>
+ *Rock Mech. Rock Eng.* ***1***)</small><p>
 
 1.  **Liang W.J.**, Fang H.C., Yin Z.Y.\* & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
 *Computer Methods in Applied Mechanics and Engineering*,
