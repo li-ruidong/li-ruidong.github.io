@@ -33,7 +33,14 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 5. **Li R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
 <br /><https://doi.org/10.1016/j.asoc.2024.112599> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+6. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.\***. (2024). Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*, 62, 1-23.
+<br /><https://doi.org/10.1139/cgj-2023-0717> <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2023-0717" data-style="large_rectangle"></span>
+
+8. **Li R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
+<br /><https://doi.org/10.1016/j.asoc.2024.112599> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+9. 7.	He S, Yin Z*, Ding Z, Li R. Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. Canadian Geotechnical Journal. DOI: 10.1139/cgj-2023-0717 (IF = 3.9, JCR Q1)
+10.	Li R, Zhang P*, Yin Z, Brain S. Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. International Journal of Numerical and Analytical Methods in Geomechanics. DOI: 10.1002/nag.3832 (IF = 3.8, JCR Q1)
 
 
 
