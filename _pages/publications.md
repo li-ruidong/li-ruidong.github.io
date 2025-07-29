@@ -7,8 +7,8 @@ author_profile: true
 
 Please find updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57223237262).
 
-## Journal papers (in English)
-
+Journal papers (in English)
+======
 <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
