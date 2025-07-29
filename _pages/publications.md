@@ -20,14 +20,21 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 
 1. Zeng K.F., Yin Z.Y.\*, **Li R.D.\***, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*, 121452.
 <br /><https://doi.org/10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 2. Jiang H.R., Debanath O.C.\*, Li Y., **Li R.D.\***. (2025). A level-set method-based framework for modeling abrasion of railway ballast. *Transportation Geotechnics*, 101628.
 <br /><https://doi.org/10.1016/j.trgeo.2025.101628> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2025.101628" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 3. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.\***. (2025). Novel observations for the impact of particle morphology on shear modulus of granular materials. *Acta Geotechnica*, 1-20.
 <br /><https://doi.org/10.1007/s11440-025-02640-9> <span class="__dimensions_badge_embed__" data-doi="10.1007/s11440-025-02640-9" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 4. **Li R.D.\***, Yin Z.Y.\*, He S.H., Brain S. (2025). Enhancement and assessment of large vision models for 3D particle reconstruction from X-ray tomography. *Canadian Geotechnical Journal*, 62, 1-28.
 <br /><https://doi.org/10.1139/cgj-2024-0736> <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0736" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-5. i R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
+
+5. **Li R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
 <br /><https://doi.org/10.1016/j.asoc.2024.112599> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 
 
 17. **Liang W.J.** & Zhao J.D.\* (2019). Multiscale modelling of large deformation in geomechanics. 
