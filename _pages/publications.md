@@ -20,106 +20,15 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 
 1. Zeng K.F., Yin Z.Y.\*, **Li R.D.\***, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*, 121452.
 <br /><https://doi.org/10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 2. Jiang H.R., Debanath O.C.\*, Li Y., **Li R.D.\***. (2025). A level-set method-based framework for modeling abrasion of railway ballast. *Transportation Geotechnics*, 101628.
 <br /><https://doi.org/10.1016/j.trgeo.2025.101628> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2025.101628" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+3. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.\***. (2025). Novel observations for the impact of particle morphology on shear modulus of granular materials. *Acta Geotechnica*, 1-20.
+<br /><https://doi.org/10.1007/s11440-025-02640-9> <span class="__dimensions_badge_embed__" data-doi="10.1007/s11440-025-02640-9" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+4. **Li R.D.\***, Yin Z.Y.\*, He S.H., Brain S. (2025). Enhancement and assessment of large vision models for 3D particle reconstruction from X-ray tomography. *Canadian Geotechnical Journal*, 62, 1-28.
+<br /><https://doi.org/10.1139/cgj-2024-0736> <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0736" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+5. i R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
+<br /><https://doi.org/10.1016/j.asoc.2024.112599> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
-*International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
-<br /><https://doi.org/10.1002/nag.4011>
-
-1. Yu J.D., **Liang W.J.**, & Zhao J.D.\* (2025). Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation. *Computer Methods in Applied Mechanics and Engineering*. 444, 118100.
-<br /><https://doi.org/10.1016/j.cma.2025.118100>
-
-1. Feng H., Yin Z.Y.\*, & **Liang W.J.** (2025). A novel unified elastoplasticity-*μ*(I) phase transition model for granular flows from solid-like to fluid-like states and its application. 
-*Engineering Geology*, 
-352, 108054.
-<br /><https://doi.org/10.1016/j.enggeo.2025.108054>
-
-1. Feng H., **Liang W.J.\***, Yin Z. Y.\*, & Hu L.M. (2025). Material point method modeling of granular flow considering phase transition from solid‐like to fluid‐like states. 
-*International Journal for Numerical and Analytical Methods in Geomechanics*,
-49(6), 1642-1664.
-<br /><https://doi.org/10.1002/nag.3947>
-
-1.  **Liang W.J.**, Fang H.C., Yin Z.Y.\* & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
-*Computer Methods in Applied Mechanics and Engineering*,
-431, 117294.
-<br /><https://doi.org/10.1016/j.cma.2024.117294>
-   
-2.  Yu J.D., Zhao J.D.\*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
-*International Journal for Numerical and Analytical Methods in Geomechanics*,
-48(13), 3308–3349.
-<br /><https://doi.org/10.1002/nag.3794>
-   
-3.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. 
-*Computers and Geotechnics*,
-171, 106349.
-<br /><https://doi.org/10.1016/j.compgeo.2024.106349>
-   
-4.  **Liang W.J.**, He K.Y.\*, Jin Y.F.\* & Yin Z.Y. (2024). A gradient-smoothed material point method for reducing cell crossing noise in large deformation problems.
-*Computers and Geotechnics*,
-169, 106169.
-<br /><https://doi.org/10.1016/j.compgeo.2024.106169>
-   
-5.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2023). A semi-implicit material point method for coupled thermo-hydro-mechanical simulation of saturated porous media in large deformation. 
-*Computer Methods in Applied Mechanics and Engineering*,
-418, 116462.
-<br /><https://doi.org/10.1016/j.cma.2023.116462>
-
-6.   He K.Y., **Liang W.J.\***, Yin Z.Y., & Jin Y.F.\* (2023). An efficient material point method framework based on the affine matrix.
-*Computers and Geotechnics*,
-163, 105712.
-<br /><https://doi.org/10.1016/j.compgeo.2023.105712>
-
-7.   **Liang W.J.**, Zhao J.D.\*, Wu H.R. & Soga K. (2023). Multiscale, multiphysics modeling of saturated granular materials in large deformation.
-*Computer Methods in Applied Mechanics and Engineering*,
-405, 115871.
-<br /><https://doi.org/10.1016/j.cma.2022.115871>
-
-8.   Wu H.R., Wu W., **Liang W.J.**, Dai F., Liu H.L. & Xiao Y.\* (2023). 3D DEM modeling of biocemented sand with fines as cementing agents.
-*International Journal for Numerical and Analytical Methods in Geomechanics*,
-47(2), 212-240. (**IJNAMG Top cited paper**)
-<br /><https://doi.org/10.1002/nag.3466>
-
-9.  **Liang W.J.**, Wu H.R., Zhao S.W., Zhou W. & Zhao J.D.\* (2022). Scalable three-dimensional hybrid continuum-discrete multiscale modeling of granular media.
-*International Journal for Numerical Methods in Engineering*,
-123(12), 2872-2893.
-<br /><https://doi.org/10.1002/nme.6963>
-
-10. Zhao S.W.\*, Zhao J.D.\*, **Liang, W.J.** & Niu, F.J. (2022). Multiscale modeling of coupled thermo-mechanical behavior of granular media in large deformation and flow.
-*Computers and Geotechnics*,
-149, 104855.
-<br /><https://doi.org/10.1016/j.compgeo.2022.104855>
-
-11. **Liang W.J.**, Zhao S.W., Wu H.R. & Zhao J.D.\* (2021). Bearing capacity and failure of footing on anisotropic soil: A multiscale perspective.
-*Computers and Geotechnics*,
-137, 104279.
-<br /><https://doi.org/10.1016/j.compgeo.2021.104279>
-
-12. **Liang W.J.**, Zhao J.D.\*, Wu H.R. & Soga K. (2021). Multiscale modeling of anchor pull-out in sand.
-*Journal of Geotechnical and Geoenvironmental Engineering*,
-147(9), 04021091.
-<br /><https://doi.org/10.1061/(ASCE)GT.1943-5606.0002599>
-
-13. Kularathna S., **Liang W.J.\***, Zhao T.C., Chandra B., Zhao J.D. & Soga K. (2021). A semi-implicit material point method based on fractional-step method for saturated soil. 
-*International Journal for Numerical and Analytical Methods in Geomechanics*,
-45(10), 1405-1436. (**IJNAMG Top cited paper**)
-<br /><https://doi.org/10.1002/nag.3207>
-
-14. Zhao S.W.\*, Zhao J.D. & **Liang W.J.** (2020). A thread-block-wise computational framework for large-scale hierarchical continuum-discrete modeling of granular media.
-*International Journal for Numerical Methods in Engineering*,
-122(2), 579-608.
-<br /><https://doi.org/10.1002/nme.6549>
-
-15. Wu H.R.\*, Zhao J.D. & **Liang W.J.** (2020). Pattern transitions of localized deformation in high-porosity sandstones: Insights from multiscale analysis.
-*Computers and Geotechnics*,
-126, 103733.
-<br /><https://doi.org/10.1016/j.compgeo.2020.103733>
-
-16. Wu H.R.\*, Zhao J.D. & **Liang W.J.** (2020). The Signature of Deformation Bands in Porous Sandstones. 
-*Rock Mechanics and Rock Engineering*,
-53(7), 3133 - 3147
-<br /><https://doi.org/10.1007/s00603-020-02100-8>
 
 17. **Liang W.J.** & Zhao J.D.\* (2019). Multiscale modelling of large deformation in geomechanics. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
