@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57223237262).
+Please find updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57223237262)**.
 
 Journal Papers (in English)
 ======
