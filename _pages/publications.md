@@ -8,7 +8,7 @@ author_profile: true
 Please find my updated works in **[Google Scholar](https://scholar.google.com/citations?user=F7lRN-0AAAAJ&hl=zh-CN)** or **[Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57223237262&zone=)**.
 
 
-## Journal paper
+## Journal papers (in English)
 
 <p><small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
@@ -19,11 +19,13 @@ Please find my updated works in **[Google Scholar](https://scholar.google.com/ci
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small><p>
 
-1. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals.
+9. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals.
 *Powder Technology*.
-<br /><https://doi.org/10.1016/j.cma.2024.117294> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106859" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+&emsp;[https://doi.org/10.1016/j.powtec.2025.121452](https://doi.org/10.1016/j.powtec.2025.121452)
+<br /><https://doi.org/10.1016/j.cma.2024.117294>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106859" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-1.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2025). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal, 62, 23. https://doi.org/10.1139/cgj-2024-0359. <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+9.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2025). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal, 62, 23. https://doi.org/10.1139/cgj-2024-0359. <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 3.  Yu J.D., Zhao J.D.\*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
