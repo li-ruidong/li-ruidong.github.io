@@ -28,7 +28,7 @@ Journal Papers (in English)
 <br /><https://doi.org/10.1002/nag.3832> <span class="__dimensions_badge_embed__" data-doi="10.1002/nag.3832" data-style="large_rectangle"></span>
 8. **Li R.D.**, Hu X.Y., Chen F., Wang X.\*, Xiong H., Wu H. (2022).  A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*, 34, 100693.
 <br /><https://doi.org/10.1016/j.trgeo.2021.100693> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2021.100693" data-style="large_rectangle"></span>
-9. Yang N.Y., Chen X.B.\*, **Li R.D.**, Zhang J.Q., Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *InternComputers and Geotechnics*, 137, 104259.
+9. Yang N.Y., Chen X.B.\*, **Li R.D.**, Zhang J.Q., Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *Computers and Geotechnics*, 137, 104259.
 <br /><https://doi.org/10.1016/j.compgeo.2021.104259> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.compgeo.2021.104259" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 {: reversed="reversed"}
 
