@@ -28,10 +28,12 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 <br /><https://doi.org/10.1007/s11440-025-02640-9> <span class="__dimensions_badge_embed__" data-doi="10.1007/s11440-025-02640-9" data-style="large_rectangle"></span>
 
 4. **Li R.D.\***, Yin Z.Y.\*, He S.H., Brain S. (2025). Enhancement and assessment of large vision models for 3D particle reconstruction from X-ray tomography. *Canadian Geotechnical Journal*, 62, 1-28.
-<br /><https://doi.org/10.1139/cgj-2024-0736> <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0736" data-style="large_rectangle"></span>
+<br /><https://doi.org/10.1139/cgj-2024-0736>
+<span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0736" data-style="large_rectangle"></span>
 
 5. **Li R.D.\***, Yin Z.Y.\*, He S.H. (2025). 3D reconstruction of arbitrary granular media utilizing vision foundation model. *Applied Soft Computing*, 169, 112599.
-<br /><https://doi.org/10.1016/j.asoc.2024.112599> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="large_rectangle"></span>
+<br /><https://doi.org/10.1016/j.asoc.2024.112599>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.asoc.2024.112599" data-style="large_rectangle"></span>
 
 6. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.\***. (2024). Particle morphology and principal stress direction dependent strength anisotropy through torsional shear testing. *Canadian Geotechnical Journal*, 62, 1-23.
 <br /><https://doi.org/10.1139/cgj-2023-0717> <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2023-0717" data-style="large_rectangle"></span>
@@ -39,16 +41,12 @@ Please find updated works in **[Google Scholar](https://scholar.google.com/citat
 7. **Li R.D.\***, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*, 48(17), 4206-4220.
 <br /><https://doi.org/10.1002/nag.3832> <span class="__dimensions_badge_embed__" data-doi="10.1002/nag.3832" data-style="large_rectangle"></span>
 
-8. **Li R.D.\***, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*, 48(17), 4206-4220.
-<br /><https://doi.org/10.1002/nag.3832> <span class="__dimensions_badge_embed__" data-doi="10.1002/nag.3832" data-style="large_rectangle"></span>
+8. **Li R.D.\***, Hu X.Y., Chen F., Wang X.\*, Xiong H., Wu H. (2022).  A systematic framework for DEM study of realistic gravel-sand mixture from particle recognition to macro-and micro-mechanical analysis. *Transportation Geotechnics*, 34, 100693.
+<br /><https://doi.org/10.1016/j.trgeo.2021.100693> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2021.100693" data-style="large_rectangle"></span>
 
-7. **Li R.D.\***, Zhang P.\*, Yin Z.Y., Brain S. (2024). Enhanced Hybrid Algorithms for Segmentation and Reconstruction of Granular Grains from X-ray Micro Computed-Tomography Images. *International Journal of Numerical and Analytical Methods in Geomechanics*, 48(17), 4206-4220.
-<br /><https://doi.org/10.1002/nag.3832> <span class="__dimensions_badge_embed__" data-doi="10.1002/nag.3832" data-style="large_rectangle"></span>
+9. Yang N.Y., Chen X.B.\*, **Li R.D.\***, Zhang J.Q., Hu H., Zhang J.S. (2021). Mesoscale numerical investigation of the effects of fiber stiffness on the shear behavior of fiber-reinforced granular soil. *InternComputers and Geotechnics*, 137, 104259.
+<br /><https://doi.org/10.1016/j.compgeo.2021.104259> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.compgeo.2021.104259" data-style="large_rectangle"></span>
 
-17. **Liang W.J.** & Zhao J.D.\* (2019). Multiscale modelling of large deformation in geomechanics. 
-*International Journal for Numerical and Analytical Methods in Geomechanics*,
-43, 1080–1114. (**IJNAMG Top downloaded paper**)
-<br /><https://doi.org/10.1002/nag.2921>
 {: reversed="reversed"}
 
 ## Book Chapter
