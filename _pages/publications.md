@@ -11,7 +11,7 @@ Journal Papers (in English)
 ======
 
 1. Zeng K.F., Yin Z.Y.\*, **Li R.D.**, Jin Y.F. (2025). Role of particle morphology in monotonic and cyclic behavior of granular materials: Insights from cereals. *Powder Technology*, 121452.
-<br /><https://10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<br /><https://10.1016/j.powtec.2025.121452> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.powtec.2025.121452" data-style="large_rectangle"></span>
 2. Jiang H.R., Debanath O.C.\*, Li Y., **Li R.D.**. (2025). A level-set method-based framework for modeling abrasion of railway ballast. *Transportation Geotechnics*, 101628.
 <br /><https://doi.org/10.1016/j.trgeo.2025.101628> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.trgeo.2025.101628" data-style="large_rectangle"></span>
 3. He S.H., Yin Z.Y.\*, Ding Z., **Li R.D.**. (2025). Novel observations for the impact of particle morphology on shear modulus of granular materials. *Acta Geotechnica*, 1-20.
