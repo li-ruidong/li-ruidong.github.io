@@ -31,9 +31,9 @@ cv:
         end_date: 2026
         score: ""
         courses: ""
-        highlights: ""
-          - Description 1.
-          - Description 2.
+        description: 
+          - "Advisor: Prof. Zhen-Yu Yin"
+          - "Thesis:"
 
       - institution: Central South University
         location: Changsha, China
@@ -45,6 +45,9 @@ cv:
         highlights: ""
           - Description 1.
           - Description 2.
+        description: 
+          - "Advisor: Prof. Hao Wu & Prof. Xiaobin Chen"
+          - "Thesis:"
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
