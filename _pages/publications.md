@@ -18,3 +18,9 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+  h2.year {
+    color: #3C51B4 !important; 
+  }
+</style>
