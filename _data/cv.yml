@@ -15,7 +15,7 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
+    street: 11 Yuk Choi Rd
     city: Kowloon
     region: HKSAR
     countryCode: CHN
@@ -30,18 +30,19 @@ cv:
         start_date: 2022
         end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
+        courses: ""
+        highlights: ""
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
+      - institution: Central South University
+        location: Changsha, China
+        url: https://www.polyu.edu.hk/
+        area: Civil Engineering
+        studyType: BSC
+        start_date: 2017
+        end_date: 2021
+        highlights: ""
           - Description 1.
           - Description 2.
 
