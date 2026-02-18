@@ -69,20 +69,53 @@ cv:
           - Advisor: Prof. Tony Chengxiang Zhuge
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Best Post Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: "The Nobel Prizes are five separate prizes awarded to those who have conferred the greatest benefit to humankind."
+          - "The 10th International Conference on Discrete Element Methods (DEM10)"
+        date: 2025
+        awarder: The 10th International Conference on Discrete Element Methods (DEM10)
 
-      - title: Max Planck Medal
+      - title: Best MSC Dissertation Award
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: "Awarded for outstanding scientific achievement"
+          - "The Hong Kong Polytechnic University"
+        date: 2022
+        awarder: The Hong Kong Polytechnic University
+
+      - title: Outstanding Graduates
+        authors:
+          - "Hunan Province"
+        date: 2021
+        awarder: Hunan Province
+
+      - title: Outstanding Graduates
+        authors:
+          - "Central South University"
+        date: 2021
+        awarder: Central South University
+
+      - title: China Railway First Class Scholarship
+        authors:
+          - "China Railway Group Limited"
+        date: 2020
+        awarder: China Railway Group Limited
+        
+      - title: First Prize of the 11th National BIM-CIM Competition
+        authors:
+          - "China Construction Education Association"
+        date: 2020
+        awarder: China Construction Education Association
+        
+      - title: First Class Scholarship
+        authors:
+          - "Central South University"
+        date: 2019-2021
+        awarder: Central South University
+
+      - title: Second Class Scholarship
+        authors:
+          - "Central South University"
+        date: 2018
+        awarder: Central South University
 
     Services:
       - name: Journal Reviewer
