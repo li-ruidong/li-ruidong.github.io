@@ -27,8 +27,8 @@ cv:
         studyType: PhD
         start_date: 2022
         end_date: 2026
-        description:
-          - "Advisor: [Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)"
+        highlights:
+          - Supervised by "[Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)"
 
       - institution: University of Cambridge
         location: Cambridge, UK
