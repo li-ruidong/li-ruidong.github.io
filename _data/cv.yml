@@ -4,7 +4,7 @@ cv:
   email: rui-dong.li@connect.polyu.hk
   location: Kowloon, HKSAR
   image: ""
-  summary: xxxxxx
+  summary: "Your research interests and brief introduction here."
 
   social_networks:
     - network: X
@@ -31,9 +31,9 @@ cv:
         end_date: 2026
         score: ""
         courses: ""
-        description: 
-          - Advisor: Prof. Zhen-Yu Yin
-          - Thesis:
+        description:
+          - "Advisor: Prof. Zhen-Yu Yin"
+          - "Thesis: [Your Thesis Title]"
 
       - institution: University of Cambridge
         location: Cambridge, UK
@@ -44,8 +44,8 @@ cv:
         end_date: 2023
         score: ""
         courses: ""
-        description: 
-          - Host advisor: Prof. Brian Sheil
+        description:
+          - "Host advisor: Prof. Brian Sheil"
 
       - institution: Central South University
         location: Changsha, China
@@ -54,12 +54,12 @@ cv:
         studyType: BSC
         start_date: 2017
         end_date: 2021
-        highlights: ""
+        highlights:
           - Description 1.
           - Description 2.
-        description: 
-          - Advisor: Prof. Hao Wu & Prof. Xiaobin Chen
-          - Thesis
+        description:
+          - "Advisor: Prof. Hao Wu & Prof. Xiaobin Chen"
+          - "Thesis: [Your Thesis Title]"
 
     Experience:
       - company: Downing College, University of Cambridge
@@ -73,9 +73,9 @@ cv:
         location: Kowloon, HKSAR
         start_date: 2021
         end_date: 2022
-        description: 
-          - Advisor: Prof. Tony Chengxiang Zhuge
-          
+        description:
+          - "Advisor: Prof. Tony Chengxiang Zhuge"
+
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -83,34 +83,38 @@ cv:
         date: 1921-11-01
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        summary: "The Nobel Prizes are five separate prizes awarded to those who have conferred the greatest benefit to humankind."
 
       - title: Max Planck Medal
         authors:
           - "German Physical Society"
         date: 2029
         awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+        summary: "Awarded for outstanding scientific achievement"
 
     Services:
       - name: Journal Reviewer
         icon: fa-solid fa-hashtag
-        keywords: "Computers and Geotechnics (Elsevier), Granular Matter (Springer), Engineering with Computers (Springer), Proceedings of the Institution of Civil Engineers - Structures and Buildings (Emerald), Scientific Reports (Springer)"
-
+        keywords:
+          - "Computers and Geotechnics (Elsevier)"
+          - "Granular Matter (Springer)"
+          - "Engineering with Computers (Springer)"
+          - "Proceedings of the Institution of Civil Engineers - Structures and Buildings (Emerald)"
+          - "Scientific Reports (Springer)"
+          
     Skills:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information"
 
     Languages:
       - name: Chinese
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information"
