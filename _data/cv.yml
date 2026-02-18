@@ -96,11 +96,11 @@ cv:
       - name: Journal Reviewer
         icon: fa-solid fa-hashtag
         keywords:
-          - "Computers and Geotechnics (Elsevier)"
-          - "Granular Matter (Springer)"
-          - "Engineering with Computers (Springer)"
-          - "Proceedings of the Institution of Civil Engineers - Structures and Buildings (Emerald)"
-          - "Scientific Reports (Springer)"
+          - Computers and Geotechnics (Elsevier)
+          - Granular Matter (Springer)
+          - Engineering with Computers (Springer)
+          - Proceedings of the Institution of Civil Engineers - Structures and Buildings (Emerald)
+          - Scientific Reports (Springer)
           
     Skills:
       - name: Physics
