@@ -80,13 +80,13 @@ cv:
         date: 2022
         awarder: The Hong Kong Polytechnic University
 
-      - title: Outstanding Graduates
+      - title: Outstanding Graduate
         authors:
           - "Hunan Province"
         date: 2021
         awarder: Hunan Province
 
-      - title: Outstanding Graduates
+      - title: Outstanding Graduate
         authors:
           - "Central South University"
         date: 2021
@@ -107,25 +107,31 @@ cv:
       - title: First Class Scholarship
         authors:
           - "Central South University"
+        date: 2021
+        awarder: Central South University
+
+      - title: First Class Scholarship
+        authors:
+          - "Central South University"
         date: 2020
         awarder: Central South University
         
+      - title: National Scholarship
+        authors:
+          - "Ministry of Education of the People’s Republic of China"
+        date: 2019
+        awarder: Ministry of Education of the People’s Republic of China
+
       - title: First Class Scholarship
         authors:
           - "Central South University"
         date: 2019
         awarder: Central South University
 
-      - title: First Class Scholarship
-        authors:
-          - "Central South University"
-        date: 2018
-        awarder: Central South University
-
       - title: Second Class Scholarship
         authors:
           - "Central South University"
-        date: 2017
+        date: 2018
         awarder: Central South University
 
     Services:
