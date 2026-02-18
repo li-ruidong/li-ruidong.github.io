@@ -107,19 +107,31 @@ cv:
       - title: First Class Scholarship
         authors:
           - "Central South University"
-        date: 2019-2021
+        date: 2020
+        awarder: Central South University
+        
+      - title: First Class Scholarship
+        authors:
+          - "Central South University"
+        date: 2019
         awarder: Central South University
 
-      - title: Second Class Scholarship
+      - title: First Class Scholarship
         authors:
           - "Central South University"
         date: 2018
         awarder: Central South University
 
+      - title: Second Class Scholarship
+        authors:
+          - "Central South University"
+        date: 2017
+        awarder: Central South University
+
     Services:
       - name: Journal Reviewer
         icon: fa-solid fa-hashtag
-        highlights:
+        content:
           - Computers and Geotechnics (Elsevier)
           - Granular Matter (Springer)
           - Engineering with Computers (Springer)
