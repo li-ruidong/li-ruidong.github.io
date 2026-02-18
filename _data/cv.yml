@@ -30,7 +30,7 @@ cv:
         end_date: 2026
         score: ""
         courses: ""
-        description:
+        highlights:
           - Advisor: Prof. Zhen-Yu Yin
           - Thesis: [Your Thesis Title]
 
