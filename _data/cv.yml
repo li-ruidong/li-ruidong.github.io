@@ -28,8 +28,6 @@ cv:
         studyType: PhD
         start_date: 2022
         end_date: 2026
-        score: ""
-        courses: ""
         highlights:
           - Advisor: Prof. Zhen-Yu Yin
           - Thesis: [Your Thesis Title]
@@ -41,9 +39,7 @@ cv:
         studyType: Visiting PhD Researcher
         start_date: 2023
         end_date: 2023
-        score: ""
-        courses: ""
-        description:
+        highlights:
           - Host advisor: Prof. Brian Sheil
 
       - institution: Central South University
@@ -54,9 +50,6 @@ cv:
         start_date: 2017
         end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
-        description:
           - Advisor: Prof. Hao Wu & Prof. Xiaobin Chen
           - Thesis: [Your Thesis Title]
 
