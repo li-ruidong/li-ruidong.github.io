@@ -18,7 +18,6 @@ cv:
     street: 11 Yuk Choi Rd
     city: Kowloon
     region: HKSAR
-    countryCode: CHN
 
   sections:
     Education:
@@ -32,20 +31,20 @@ cv:
         score: ""
         courses: ""
         description:
-          - "Advisor: Prof. Zhen-Yu Yin"
-          - "Thesis: [Your Thesis Title]"
+          - Advisor: Prof. Zhen-Yu Yin
+          - Thesis: [Your Thesis Title]
 
       - institution: University of Cambridge
         location: Cambridge, UK
         url: https://www.cam.ac.uk/
         area: Geotechnical Engineering
-        studyType: Visiting PhD Student
+        studyType: Visiting PhD Researcher
         start_date: 2023
         end_date: 2023
         score: ""
         courses: ""
         description:
-          - "Host advisor: Prof. Brian Sheil"
+          - Host advisor: Prof. Brian Sheil
 
       - institution: Central South University
         location: Changsha, China
@@ -58,8 +57,8 @@ cv:
           - Description 1.
           - Description 2.
         description:
-          - "Advisor: Prof. Hao Wu & Prof. Xiaobin Chen"
-          - "Thesis: [Your Thesis Title]"
+          - Advisor: Prof. Hao Wu & Prof. Xiaobin Chen
+          - Thesis: [Your Thesis Title]
 
     Experience:
       - company: Downing College, University of Cambridge
@@ -74,7 +73,7 @@ cv:
         start_date: 2021
         end_date: 2022
         description:
-          - "Advisor: Prof. Tony Chengxiang Zhuge"
+          - Advisor: Prof. Tony Chengxiang Zhuge
 
     Awards:
       - title: Nobel Prize in Physics
