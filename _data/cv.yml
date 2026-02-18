@@ -28,7 +28,7 @@ cv:
         start_date: 2022
         end_date: 2026
         highlights:
-          - Supervised by "[Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)"
+          - Supervised by [Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)
 
       - institution: University of Cambridge
         location: Cambridge, UK
@@ -38,17 +38,17 @@ cv:
         start_date: 2023
         end_date: 2023
         highlights:
-          - Host advisor: Prof. Brian Sheil
+          - Supervised by [Prof. Brian Sheil](https://dcu-group.co.uk/team/brian/)
 
       - institution: The Hong Kong Polytechnic University
         location: Kowloon, HKSAR
         url: https://www.polyu.edu.hk/
-        area: Geotechnical Engineering
+        area: Civil Engineering
         studyType: MSC
         start_date: 2021
         end_date: 2022
-        description:
-          - "Advisor: [Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)"
+        highlights:
+          - Supervised by [Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)
 
       - institution: Central South University
         location: Changsha, China
@@ -58,8 +58,7 @@ cv:
         start_date: 2017
         end_date: 2021
         highlights:
-          - Advisor: Prof. Hao Wu & Prof. Xiaobin Chen
-          - Thesis: [Your Thesis Title]
+          - Supervised by [Prof. Xiaobin Chen](https://faculty.csu.edu.cn/chenxiaobin/en/index.htm) & [Prof. Hao Wu](https://faculty.csu.edu.cn/wuhao/zh_CN/index.htm) 
 
     Experience:
       - company: Downing College, University of Cambridge
