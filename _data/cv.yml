@@ -2,6 +2,7 @@ cv:
   name: Ruidong Li
   label: PhD candidate
   email: rui-dong.li@connect.polyu.hk
+  language: 
   location: Kowloon, HKSAR
   image: ""
 
@@ -73,7 +74,7 @@ cv:
         description:
           - Advisor: Prof. Tony Chengxiang Zhuge
 
-    Awards:
+    Honors and Awards:
       - title: Best Post Award
         authors:
           - "The 10th International Conference on Discrete Element Methods (DEM10)"
