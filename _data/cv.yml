@@ -22,7 +22,6 @@ cv:
     Education:
       - institution: The Hong Kong Polytechnic University
         location: Kowloon, HKSAR
-        url: https://www.polyu.edu.hk/
         area: Geotechnical Engineering
         studyType: PhD
         start_date: 2022
@@ -32,7 +31,6 @@ cv:
 
       - institution: University of Cambridge
         location: Cambridge, UK
-        url: https://www.cam.ac.uk/
         area: Geotechnical Engineering
         studyType: Visiting PhD Researcher
         start_date: 2023
@@ -42,7 +40,6 @@ cv:
 
       - institution: The Hong Kong Polytechnic University
         location: Kowloon, HKSAR
-        url: https://www.polyu.edu.hk/
         area: Civil Engineering
         studyType: MSC
         start_date: 2021
@@ -52,7 +49,6 @@ cv:
 
       - institution: Central South University
         location: Changsha, China
-        url: https://www.csu.edu.cn/
         area: Civil Engineering
         studyType: BSC
         start_date: 2017
@@ -145,15 +141,9 @@ cv:
     Services:
       - name: Journal Reviewer
         icon: fa-solid fa-hashtag
-        content:
+        highlights:
           - Computers and Geotechnics (Elsevier)
           - Granular Matter (Springer)
           - Engineering with Computers (Springer)
           - Proceedings of the Institution of Civil Engineers - Structures and Buildings (Emerald)
           - Scientific Reports (Springer)
-
-    Languages:
-      - name: Chinese
-        summary: "Native speaker"
-      - name: English
-        summary: "Fluent"
