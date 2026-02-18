@@ -40,6 +40,16 @@ cv:
         highlights:
           - Host advisor: Prof. Brian Sheil
 
+      - institution: The Hong Kong Polytechnic University
+        location: Kowloon, HKSAR
+        url: https://www.polyu.edu.hk/
+        area: Geotechnical Engineering
+        studyType: MSC
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - "Advisor: [Prof. Zhen-Yu Yin](https://geoinvention.com/rteam_yinzhenyu.html)"
+
       - institution: Central South University
         location: Changsha, China
         url: https://www.csu.edu.cn/
