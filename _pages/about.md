@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>The Hong Kong Polytechnic University, VA324</p>
-    <p>11，Yuk Choi Rd</p>
+    <p>11 Yuk Choi Rd</p>
     <p>Kowloon, Hong Kong, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
