@@ -1,12 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
 
-@font-face {
-  font-family: "Academic Brands";
-  font-style: normal;
-  font-weight: 400;
-  src: url("/assets/webfonts/fa-brands-400.woff2") format("woff2");
-}
-
 :root {
   --font-zilla-slab: "Zilla Slab";
   --ink: #293238;
@@ -249,33 +242,6 @@ a {
 .social-links svg {
   width: 18px;
   height: 18px;
-}
-
-.social-links i {
-  font-style: normal;
-  line-height: 1;
-}
-
-.brand-icon {
-  font-family: "Academic Brands";
-}
-
-.icon-linkedin::before {
-  content: "\f0e1";
-}
-
-.icon-researchgate::before {
-  content: "\f4f8";
-}
-
-.icon-github::before {
-  content: "\f09b";
-}
-
-.icon-scholar {
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 700;
 }
 
 .social-links .linkedin {
