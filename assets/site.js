@@ -1,5 +1,4 @@
-/* Ruidong Li · shared interactions v2.2 (UTF-8).
-   Content, navigation and profile are already present in the HTML. */
+/* Mobile navigation, publication abstracts and the footer year. */
 (() => {
   "use strict";
   document.documentElement.classList.add("has-js");

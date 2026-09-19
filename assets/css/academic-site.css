@@ -1,13 +1,11 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
 
-/* Ruidong Li — shared visual standard v2.2.
-   Seven existing routes and their information architecture are retained.
-   All component spacing is owned here, not by per-entry inline styles. */
+/* Site fonts, colors, spacing and responsive layouts. */
 :root {
-  /* A single, network-independent font stack on all seven routes. */
-  --font-sans: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  --font-body: var(--font-sans);
-  --font-heading: var(--font-sans);
+  /* Fonts */
+  --font-body: "Trebuchet MS", Arial, sans-serif;
+  --font-heading: "Zilla Slab", Georgia, serif;
   --ink: #293238;
   --muted: #657277;
   --blue: #2f6268;
@@ -85,7 +83,7 @@ img { max-width: 100%; }
 }
 .skip-link:focus { transform: translateY(0); }
 
-/* Shared navigation. Its seven items and original order are unchanged. */
+/* Navigation */
 .topbar {
   position: fixed;
   z-index: 50;
@@ -109,8 +107,8 @@ img { max-width: 100%; }
   margin-right: 22px;
   color: var(--blue);
   font-family: var(--font-heading);
-  font-size: 22px;
-  font-style: normal;
+  font-size: 24px;
+  font-style: italic;
   font-weight: 700;
   letter-spacing: -.02em;
   white-space: nowrap;
@@ -162,7 +160,7 @@ img { max-width: 100%; }
   background: var(--blue);
 }
 
-/* Shared shell: the same content left edge and width on all seven pages. */
+/* Page layout and profile */
 .site-container {
   display: grid;
   max-width: 1140px;
@@ -194,7 +192,7 @@ img { max-width: 100%; }
 
 .contact-block a { font-size: var(--text-meta); overflow-wrap: anywhere; }
 .social-links { display: flex; gap: 15px; margin-top: var(--space-24); }
-/* Quiet, consistent icon treatment rather than four competing colors. */
+/* Academic profile links */
 .social-links a {
   display: grid;
   width: 32px;
@@ -214,8 +212,7 @@ img { max-width: 100%; }
 }
 .social-links svg { width: 17px; height: 17px; }
 
-/* One family and one type scale. Italics are reserved for publication venues.
-   Identical content roles never vary by route or legacy component class. */
+/* Headings and body text */
 .page-title {
   display: flex;
   align-items: center;
@@ -224,9 +221,9 @@ img { max-width: 100%; }
   color: var(--blue);
   font-family: var(--font-heading);
   font-size: var(--text-h1);
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: -.035em;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: -.02em;
   line-height: 1.2;
 }
 .page-title > span {
@@ -249,8 +246,8 @@ img { max-width: 100%; }
 }
 .contact-block h2 {
   margin: 0 0 var(--space-8);
-  font-size: 18px;
-  line-height: 1.4;
+  font-size: var(--text-h2);
+  line-height: 1.3;
 }
 .content-section + .content-section { margin-top: var(--space-32); }
 .page-intro, .cv-summary {
@@ -270,9 +267,7 @@ img { max-width: 100%; }
 .interest-grid span::before { margin-right: 8px; color: var(--blue); content: "›"; font-weight: 700; }
 .interest-grid span:last-child:nth-child(odd) { grid-column: 1 / -1; }
 
-/* Shared academic record component: CV, teaching and activities.
-   Explicit roles replace page-specific paragraph rules (the old source of
-   14px/16px and muted/dark differences within the Teaching page). */
+/* Academic records: CV, Teaching and Activities */
 .entry-list, .news-list {
   display: grid;
   gap: var(--space-16);
@@ -338,8 +333,7 @@ img { max-width: 100%; }
 .news-item { grid-template-columns: var(--date-column-short) minmax(0, 1fr); }
 .news-item p { margin: 0; line-height: var(--line-dense); overflow-wrap: anywhere; }
 
-/* Publications: fixed, right-aligned numbers; a single hanging citation edge.
-   No per-row year column, no images, no hard line breaks inside a citation. */
+/* Publications: fixed number column and hanging citations */
 .publication-list { display: grid; gap: var(--space-24); }
 .publication-year-group { min-width: 0; }
 .publication-year {
@@ -393,9 +387,7 @@ img { max-width: 100%; }
 }
 .publication-highlight span { margin-right: 5px; }
 
-/* One resource-row component shared by Publications and Activities.
-   Top-aligned labels keep the visual gap tight without shrinking hit targets.
-   The abstract's content is outside this row, so PDF/DOI never jump downward. */
+/* Resource links; abstracts open below the entire resource row. */
 .resource-links {
   display: flex;
   flex-wrap: wrap;
@@ -438,7 +430,7 @@ img { max-width: 100%; }
 .publication-abstract p + p { margin-top: var(--space-8); }
 .publication-abstract[open] > summary:not([hidden]) { margin-bottom: var(--space-8); }
 
-/* Research retains its original four topics, descriptions, and figures. */
+/* Research and reviewing */
 .research-list { display: grid; gap: var(--space-32); }
 .research-project { min-width: 0; margin: 0; padding: 0; }
 .research-grid {
@@ -472,7 +464,7 @@ img { max-width: 100%; }
   font-size: .8125rem;
 }
 
-/* Tablet and mobile use the same scale, not smaller per-page body text. */
+/* Responsive layouts */
 @media (max-width: 1100px) {
   .research-grid { grid-template-columns: 1fr; }
   .research-grid img { max-width: 480px; height: auto; max-height: 280px; }
