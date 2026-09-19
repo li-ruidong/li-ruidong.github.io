@@ -58,7 +58,7 @@
   const current = document.body.dataset.page;
   const nav = pages
     .map(([href, label, icon]) => {
-      const active = current === label.toLowerCase() ? ' class="active"' : "";
+      const active = current === label.toLowerCase() ? ' class="active" aria-current="page"' : "";
       return `<a${active} href="${href}"><span class="nav-icon" aria-hidden="true">${icon}</span>${label}</a>`;
     })
     .join("");
@@ -97,5 +97,38 @@
   toggle.addEventListener("click", () => {
     const open = primaryNav.classList.toggle("is-open");
     toggle.setAttribute("aria-expanded", String(open));
+  });
+
+
+  // Keep every resource link stationary when its abstract is expanded.
+  document.querySelectorAll(".abstract-toggle").forEach((button) => {
+    const details = document.getElementById(button.getAttribute("aria-controls"));
+    if (!(details instanceof HTMLDetailsElement)) return;
+    const summary = details.querySelector("summary");
+    if (summary) summary.hidden = true;
+    button.hidden = false;
+    const syncState = () => {
+      button.setAttribute("aria-expanded", String(details.open));
+    };
+    button.addEventListener("click", () => {
+      details.open = !details.open;
+      syncState();
+    });
+    details.addEventListener("toggle", syncState);
+    syncState();
+  });
+
+  // Escape closes the mobile navigation and restores its trigger's focus.
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && primaryNav.classList.contains("is-open")) {
+      primaryNav.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.focus();
+    }
+  });
+  window.matchMedia("(min-width: 901px)").addEventListener("change", (event) => {
+    if (!event.matches) return;
+    primaryNav.classList.remove("is-open");
+    toggle.setAttribute("aria-expanded", "false");
   });
 })();
