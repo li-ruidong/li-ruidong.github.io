@@ -8,7 +8,7 @@
   --font-heading: "Zilla Slab", Georgia, serif;
   --ink: #293238;
   --muted: #657277;
-  --role-ink: #566a6d; /* subdued teal-gray for roles and project types */
+  --role-ink: #85624c; /* muted bronze for degrees, roles and project types */
   --blue: #2f6268;
   --blue-dark: #21484d;
   --accent: #a76f4d;
@@ -189,7 +189,7 @@ img { max-width: 100%; }
 }
 .profile-copy p { margin: 0; }
 .profile-copy p + p { margin-top: var(--space-8); }
-.profile-role { font-weight: 700; }
+.profile-role { color: var(--role-ink); font-style: italic; font-weight: 700; }
 .contact-block { margin-top: var(--space-32); }
 
 .contact-block a { color: #303030; font-size: var(--text-meta); overflow-wrap: anywhere; }
@@ -258,7 +258,7 @@ img { max-width: 100%; }
   margin: 0 0 var(--space-24);
   font-size: var(--text-body);
 }
-.cv-summary { color: var(--muted); }
+.cv-summary { color: var(--ink); }
 .prose p { margin: 0; }
 .prose p + p { margin-top: var(--space-12); }
 .interest-block { margin-top: var(--space-32); }
@@ -317,7 +317,7 @@ img { max-width: 100%; }
   margin: var(--space-2) 0 0;
   color: var(--role-ink);
   font-size: var(--text-body);
-  font-style: normal;
+  font-style: italic;
   font-weight: 400;
   line-height: var(--line-dense);
 }
@@ -335,6 +335,10 @@ img { max-width: 100%; }
 .funding-attribution > span:first-child { font-weight: 600; }
 .news-item { grid-template-columns: var(--date-column-short) minmax(0, 1fr); }
 .news-item p { margin: 0; line-height: var(--line-dense); overflow-wrap: anywhere; }
+.news-item--milestone .news-date, .news-item--milestone strong {
+  color: var(--blue-dark);
+  font-weight: 700;
+}
 
 /* Publications: fixed number column and hanging citations */
 .publication-list { display: grid; gap: var(--space-24); }
