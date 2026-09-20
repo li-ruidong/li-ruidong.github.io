@@ -13,7 +13,7 @@
   --blue-dark: #21484d;
   --accent: #a76f4d;
   --accent-text: #996344; /* slightly darker for small publication numbers */
-  --honor: #8c4351; /* muted wine red for publication honors */
+  --honor: #a52d43; /* garnet for milestones and publication honors */
   --nav-bg: rgba(230, 239, 236, 0.94);
   --rule: rgba(47, 98, 104, 0.15);
   --paper: #fcfbf7;
@@ -294,6 +294,13 @@ img { max-width: 100%; }
   font-size: var(--text-meta);
   line-height: var(--line-meta);
 }
+/* Keep each activity's date above its location at every screen width. */
+.activity-entry .entry-meta {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-2);
+}
+.entry-location { max-width: 100%; overflow-wrap: break-word; }
 .entry-date, .news-date {
   color: var(--muted);
   font-family: var(--font-body);
@@ -336,7 +343,7 @@ img { max-width: 100%; }
 .news-item { grid-template-columns: var(--date-column-short) minmax(0, 1fr); }
 .news-item p { margin: 0; line-height: var(--line-dense); overflow-wrap: anywhere; }
 .news-item--milestone .news-date, .news-item--milestone strong {
-  color: var(--blue-dark);
+  color: var(--honor);
   font-weight: 700;
 }
 
@@ -384,12 +391,19 @@ img { max-width: 100%; }
 }
 .publication-authors, .publication-title, .publication-venue { display: inline; }
 .publication-venue { font-style: italic; }
+.publication-author-self {
+  font-weight: 700;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-skip-ink: auto;
+}
 .publication-highlight {
   margin: var(--space-4) 0 0;
   padding: 0;
   color: var(--honor);
   font-size: var(--text-meta);
-  font-weight: 400;
+  font-weight: 600;
   line-height: var(--line-meta);
 }
 .publication-highlight span { margin-right: 5px; }
